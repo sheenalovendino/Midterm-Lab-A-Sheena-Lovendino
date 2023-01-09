@@ -1,0 +1,12 @@
+{
+  "name": "midterm-exam-lab-a",
+  "version": "1.0.0",
+  "description": "Create a node.js application that utilizes a file as data input see (f-01). Your app should generate and process from data input see (o-01). Modify your package.json",
+  "main": "exam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Sheena Lovendino",
+  "license": "ISC"
+}
