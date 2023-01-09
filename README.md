@@ -1,2 +1,2 @@
 # Midterm Lab Exam Set A
-### Sheena Lovendino, BSIT3-2
+### Sheena Lovendino, BSIT 3-2
